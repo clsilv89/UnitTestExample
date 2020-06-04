@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UnitTest</string>
+
+    <string name="revert">Preencher</string>
+    <string name="save">Salvar</string>
+    <string name="email_hint">Email</string>
+    <string name="email_label">Email</string>
+
+    <string name="dob_label">Data de Nascimento</string>
+    <string name="name_hint">Nome</string>
+    <string name="name_label">Nome</string>
+    <string name="settings_title">Testes Unitários</string>
+</resources>
